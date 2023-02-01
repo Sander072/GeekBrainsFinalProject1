@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Рабочий стол\Учёба\Курсы\GitGroup\FinalProject1sem\bin\Debug\net6.0\FinalProject1sem.exe
+C:\Users\user\OneDrive\Рабочий стол\Учёба\Курсы\GitGroup\FinalProject1sem\bin\Debug\net6.0\FinalProject1sem.deps.json
+C:\Users\user\OneDrive\Рабочий стол\Учёба\Курсы\GitGroup\FinalProject1sem\bin\Debug\net6.0\FinalProject1sem.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\Учёба\Курсы\GitGroup\FinalProject1sem\bin\Debug\net6.0\FinalProject1sem.dll
+C:\Users\user\OneDrive\Рабочий стол\Учёба\Курсы\GitGroup\FinalProject1sem\bin\Debug\net6.0\FinalProject1sem.pdb
+C:\Users\user\OneDrive\Рабочий стол\Учёба\Курсы\GitGroup\FinalProject1sem\obj\Debug\net6.0\FinalProject1sem.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Учёба\Курсы\GitGroup\FinalProject1sem\obj\Debug\net6.0\FinalProject1sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\Учёба\Курсы\GitGroup\FinalProject1sem\obj\Debug\net6.0\FinalProject1sem.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Учёба\Курсы\GitGroup\FinalProject1sem\obj\Debug\net6.0\FinalProject1sem.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\Учёба\Курсы\GitGroup\FinalProject1sem\obj\Debug\net6.0\FinalProject1sem.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Учёба\Курсы\GitGroup\FinalProject1sem\obj\Debug\net6.0\FinalProject1sem.dll
+C:\Users\user\OneDrive\Рабочий стол\Учёба\Курсы\GitGroup\FinalProject1sem\obj\Debug\net6.0\refint\FinalProject1sem.dll
+C:\Users\user\OneDrive\Рабочий стол\Учёба\Курсы\GitGroup\FinalProject1sem\obj\Debug\net6.0\FinalProject1sem.pdb
+C:\Users\user\OneDrive\Рабочий стол\Учёба\Курсы\GitGroup\FinalProject1sem\obj\Debug\net6.0\FinalProject1sem.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\Учёба\Курсы\GitGroup\FinalProject1sem\obj\Debug\net6.0\ref\FinalProject1sem.dll
